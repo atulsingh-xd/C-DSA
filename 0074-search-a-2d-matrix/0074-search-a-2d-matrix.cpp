@@ -5,7 +5,7 @@ public:
         int start = 0, end = n - 1;
 
         while (start <= end) {
-            int mid =start + (end - start) / 2;
+            int mid = start + (end - start) / 2;
             if (matrix[mR][mid] == tar) {
                 return true;
             } else if (tar > matrix[mR][mid]) {
