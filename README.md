@@ -79,4 +79,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/atulsingh-xd/C-DSA/tree/master/0066-plus-one) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/atulsingh-xd/C-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/atulsingh-xd/C-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
